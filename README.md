@@ -26,8 +26,8 @@ A lightweight macOS music player with a customizable background, simple playback
 ---
 
 ## Background requirements
-- **Extension (`.png`, `.jpeg`, `.tiff`, `.heic`) .
-- **Size 230 x 400 px - or similar ratio.
+- **Extension** (`.png`, `.jpeg`, `.tiff`, `.heic`) .
+- **Size** 230 x 400 px - or similar ratio.
 ---
 
 
