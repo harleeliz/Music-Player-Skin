@@ -20,7 +20,17 @@ A lightweight macOS music player with a customizable background, simple playback
 - **Xcode** – 14.0 or later  
 - **Swift** – 5.6 or later  
 
+
+
+
 ---
+
+## Background requirements
+- **Extension (`.png`, `.jpeg`, `.tiff`, `.heic`) .
+- **Size 230 x 400 px - or similar ratio.
+---
+
+
 
 ## Installation
 
